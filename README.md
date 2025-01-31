@@ -10,12 +10,19 @@ Streamlit for an Interactive Web Interface
 By combining deep learning-based fatigue detection with intelligent route planning, this system enhances road safety and traffic management.
 
 🔑 Features
+
 ✅ Real-time Driver Monitoring via image-based classification
+
 ✅ Fatigue Detection using CNNs trained on the MRL Eye Dataset
+
 ✅ Dynamic Route Planning with Google Maps API integration
+
 ✅ Streamlit-powered Web App for an intuitive user experience
+
 ✅ Seamless Traffic-aware Rerouting to avoid congestion
+
 ✅ Alerts for Drowsy Driving for enhanced road safety
+
 
 🖥️ Tech Stack
 Machine Learning: TensorFlow, OpenCV, CNN
@@ -69,11 +76,17 @@ streamlit run src/app.py
 The CNN model was trained on the MRL Eye Dataset and achieved:
 
 Accuracy: 95.3%
+
 Precision: 94.1%
+
 Recall: 96.7%
+
 📌 Future Enhancements
+
 🔹 Improve model accuracy with larger datasets
+
 🔹 Integrate real-time video processing for live monitoring
+
 🔹 Expand rerouting logic with AI-based traffic prediction
 
 🤝 Contributions
